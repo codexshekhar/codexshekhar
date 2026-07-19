@@ -1,102 +1,157 @@
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:2C5364,100:00C853&text=Shashank%20Shekhar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Learner&descAlignY=58"/>
+
 <div align="center">
 
-# Hi there, I'm Shashank Shekhar 👋
+# 👋 Hello, I'm Shashank Shekhar
 
-### Full Stack Developer • AI Enthusiast • Open Source Learner
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C853&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Enthusiast;Building+Modern+Web+Applications;React+•+TypeScript+•+Node.js;Always+Learning+New+Technologies"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-Powered+Applications;React+%7C+TypeScript+%7C+Node.js;Always+Learning+Something+New" alt="Typing SVG" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=codexshekhar&label=Profile%20Views&color=00C853&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/codexshekhar?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/codexshekhar?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 B.Tech Computer Science & Engineering Student
-- 💻 Passionate about Full Stack Web Development
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌱 Continuously learning modern technologies
-- 🚀 Love building scalable and user-friendly applications
-- 📚 Open Source Contributor & Lifelong Learner
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Database
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+```javascript
+const shashank = {
+    role: "Full Stack Developer",
+    education: "B.Tech CSE",
+    interests: [
+        "Web Development",
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Open Source"
+    ],
+    currentlyLearning: [
+        "Next.js",
+        "AI Engineering",
+        "System Design"
+    ],
+    funFact: "Code • Learn • Build • Repeat 🚀"
+}
+```
 
 ---
 
+# ⚡ Tech Stack
 
-## 🔥 GitHub Streak
+## Languages
 
-<p align="center">
+<p>
 
-<img src="https://streak-stats.demolab.com?user=codexshekhar&theme=github-dark-blue&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux"/>
 
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codexshekhar&theme=github-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codexshekhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexshekhar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
+# 🔥 GitHub Streak
 
-<p align="left">
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=codexshekhar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codexshekhar&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=codexshekhar&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/codexshekhar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://linkedin.com/in/cseshekhar">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:shashank2006shekhar@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat."
+### 💻 Building software with curiosity, consistency, and clean code.
 
-⭐ Thanks for visiting my profile!
+⭐ If you like my work, consider following me!
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F2027,50:2C5364,100:00C853"/>
